@@ -1,2 +1,2 @@
 # CopyStack
-Copy a stack without destroying the original, uses recursion
+Copy a stack without destroying the original, using recursion
