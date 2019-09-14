@@ -1,4 +1,3 @@
-package github;
 /**
  * @author Wagner Bonfim
  */
